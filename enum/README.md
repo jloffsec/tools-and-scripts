@@ -9,6 +9,8 @@ Automatiza la enumeración de hosts con arp-scan y escaneo de puertos con nmap.
 ```bash
 sudo ./enum.sh <interfaz-de-red> 
 ```
+![♦demo](demo.png)
+
 ## Permisos
 Le damos permiso de ejecución al script:
 ```bash
